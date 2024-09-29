@@ -1,3 +1,7 @@
+## 0.7.1 ([Sep 29, 2024](https://github.com/ramensoftware/windhawk-mods/blob/eff0e8b04556a420a4d9ccd30dd988a862588fa1/mods/sib-plusplus-tweaker.wh.cpp))
+
+Update sib-plusplus-tweaker.wh.cpp
+
 ## 0.7.1 ([Sep 29, 2024](https://github.com/ramensoftware/windhawk-mods/blob/09fd27660c6d972625699b1e8123aa3f943c431a/mods/sib-plusplus-tweaker.wh.cpp))
 
 StartIsBack++ Tweaker 0.7.1

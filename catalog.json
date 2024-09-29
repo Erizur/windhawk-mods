@@ -2164,7 +2164,7 @@
                 "published": 1719608406000,
                 "rating": 10,
                 "ratingUsers": 4,
-                "updated": 1727643693000,
+                "updated": 1727647198000,
                 "users": 200
             },
             "metadata": {
@@ -2172,7 +2172,7 @@
                     "x86-64"
                 ],
                 "author": "Erizur",
-                "compilerOptions": "-lcomdlg32 -luser32 -lole32 -lgdi32 -lshell32 -luxtheme",
+                "compilerOptions": "-lcomctl32 -lcomdlg32 -luser32 -lole32 -lgdi32 -lshell32 -luxtheme",
                 "description": "Modify StartIsBack++'s features (2.9.20)",
                 "github": "https://github.com/Erizur",
                 "include": [
